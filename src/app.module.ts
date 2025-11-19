@@ -3,7 +3,6 @@ import { Module } from '@nestjs/common';
 import { ConfigModule } from '@nestjs/config';
 import { TypeOrmModule } from '@nestjs/typeorm';
 import { TestimonialsModule } from './testimonials/testimonials.module';
-import * as fs from 'fs';
 
 @Module({
   imports: [
@@ -17,12 +16,6 @@ import * as fs from 'fs';
       username: process.env.DB_USERNAME,
       password: process.env.DB_PASSWORD,
       database: process.env.DB_DATABASE,
-      ssl: process.env.DB_SSL_CA
-        ? {
-            ca: fs.readFileSync(process.env.DB_SSL_CA, 'utf8'),
-            rejectUnauthorized: false,
-          }
-        : { rejectUnauthorized: false },
       autoLoadEntities: true,
       synchronize: true,
     }),
