@@ -1,53 +1,88 @@
-<h2 align="left">¡Hola! 👋 Soy Javier Ivan, Desarrollador de Software de Tijuana, Baja California</h2>
+<div align="center">
+
+<h1>Javier Ivan Valenzuela Esparza</h1>
+
+<h3>Software Developer · WMS & ERP Specialist</h3>
+
+<p>
+<strong>Logistics Systems · Scalable Architectures · Clean Code</strong><br/>
+React · Node.js · Microservices · Clean Architecture<br/>
+Tijuana, Baja California — México
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=9CA3AF&center=true&vCenter=true&width=780&lines=Designing+software+for+real+world+operations;Building+scalable+WMS+and+ERP+systems;Code+written+for+clarity%2C+maintainability+and+scale"/>
+
+</div>
 
 ---
+
+## About Me
+
+<img align="right" height="190" src="https://i.pinimg.com/originals/65/eb/8a/65eb8a6b4a8966bafd26d1dee21ed97f.gif"/>
+
+I'm a **Software Developer specialized in WMS & ERP systems**, focused on building **high-performance, scalable and maintainable software** for logistics, ecommerce and enterprise environments.
+
+I work daily with **real production systems**, solving complex business problems through **clean architecture**, solid backend design and professional user interfaces.
+
+### What I build
+
+* High-volume **WMS platforms**
+* **ERP systems** aligned to real operations
+* Fast & secure **APIs**
+* **Scalable architectures**
+* Clean, functional **UIs**
+
+---
+
+## Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JavierIvanValenzuelaEsparza&theme=dark&show_icons=true&hide_border=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierIvanValenzuelaEsparza&theme=dark&show_icons=true&hide_border=true&layout=compact"/>
-
-</div>
-
----
-<img align="right" height="150" src ='https://i.pinimg.com/originals/65/eb/8a/65eb8a6b4a8966bafd26d1dee21ed97f.gif'/>
-
----
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="logo de JavaScript"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="logo de TypeScript"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="logo de React"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="39" alt="logo de Node.js"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="logo de Python"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="30" alt="logo de MongoDB"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="logo de Tailwind"  />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,dotnet,golang,mongodb,postgresql,redis,docker,kubernetes,tailwind&perline=7"/>
 </div>
 
 ---
 
-<div align="left">
-  <a href="https://www.youtube.com/">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="logo de YouTube"  />
-  </a>
-  <a href="https://www.instagram.com/whoistymo">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="logo de Instagram"  />
-  </a>
-  <a href="https://www.twitch.tv/">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="logo de Twitch"  />
-  </a>
-  <a href="https://discord.com/">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="logo de Discord"  />
-  </a>
-  <a href="mailto:tu_correo@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="logo de Gmail"  />
-  </a>
-  <a href="https://www.linkedin.com/in/tu_perfil/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="logo de LinkedIn"  />
-  </a>
+## GitHub Analytics
+
+<table align="center">
+<tr>
+<td align="center">
+
+### GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=JavierIvanValenzuelaEsparza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+</td>
+<td align="center">
+
+### Top Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierIvanValenzuelaEsparza&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</td>
+<td align="center">
+
+### Contribution Streak
+
+<img src="https://streak-stats.demolab.com?user=JavierIvanValenzuelaEsparza&theme=tokyonight&hide_border=true"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+## Contribution Activity Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JavierIvanValenzuelaEsparza&theme=react-dark&hide_border=true"/>
 </div>
+
+---
+
+## Philosophy
+
+> *“Good code doesn’t just work — it communicates, scales and survives production.”*
+
+---
+
